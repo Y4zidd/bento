@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Osu!',
+			icon: 'osu',
+			link: 'https://osu.ppy.sh/',
 		},
 	],
 
